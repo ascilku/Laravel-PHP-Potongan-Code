@@ -1,0 +1,8 @@
+cara membuat servis di laravel
+
+dengan membuatnya menual
+dengan cara 
+
+1. membuat folder servis nya dimanapun, tpi bagusnya didalam app dan bisa juga di dalam http sejajar dengan controller
+2. buat file repository dengan huruf kapital awalnya
+3. copy file servis nya dan seusaikan nama kelas dengan nama file dan namespacenya di sesuaikan dengan tempat penyimpanan file servis

@@ -1,0 +1,6 @@
+cara membuat request validation di laravel
+
+dengan membuatnya secara otomatis dengen mengetikkan "php artisan make:request nama_file_request"
+dengan cara 
+
+1. kalau sudah di buat otomatis. lalu ikuti format yang ada di file request validationn yang sudah di sediakan di folder example

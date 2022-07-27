@@ -1,0 +1,2 @@
+pergi ke file .env dan cari "APP_DEBUG" defaultnya itu true dan ubah jadi false dan tredeng error yang pusing tadi hilang
+dan kalau mau mengubah respons dari errornya yaitu harus mengubah nya ke handler dengan mengcopy potongan kode di dalam folder ini ke handler laravel kalian 
